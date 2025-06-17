@@ -1,0 +1,5 @@
+D:\33333\MusicCatalog\MusicCatalog.Domain.Repositories.Abstractions\obj\Debug\net8.0\MusicCatalog.Domain.Repositories.Abstractions.csproj.AssemblyReference.cache
+D:\33333\MusicCatalog\MusicCatalog.Domain.Repositories.Abstractions\obj\Debug\net8.0\MusicCatalog.Domain.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\33333\MusicCatalog\MusicCatalog.Domain.Repositories.Abstractions\obj\Debug\net8.0\MusicCatalog.Domain.Repositories.Abstractions.AssemblyInfoInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.Domain.Repositories.Abstractions\obj\Debug\net8.0\MusicCatalog.Domain.Repositories.Abstractions.AssemblyInfo.cs
+D:\33333\MusicCatalog\MusicCatalog.Domain.Repositories.Abstractions\obj\Debug\net8.0\MusicCatalog.Domain.Repositories.Abstractions.csproj.CoreCompileInputs.cache
