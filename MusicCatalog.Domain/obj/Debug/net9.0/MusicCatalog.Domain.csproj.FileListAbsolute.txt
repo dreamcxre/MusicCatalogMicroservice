@@ -1,0 +1,15 @@
+D:\33333\MusicCatalog\MusicCatalog.Domain\bin\Debug\net9.0\MusicCatalog.Domain.deps.json
+D:\33333\MusicCatalog\MusicCatalog.Domain\bin\Debug\net9.0\MusicCatalog.Domain.dll
+D:\33333\MusicCatalog\MusicCatalog.Domain\bin\Debug\net9.0\MusicCatalog.Domain.pdb
+D:\33333\MusicCatalog\MusicCatalog.Domain\bin\Debug\net9.0\MusicCatalog.Domain.ValueObjects.dll
+D:\33333\MusicCatalog\MusicCatalog.Domain\bin\Debug\net9.0\MusicCatalog.Domain.ValueObjects.pdb
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.csproj.AssemblyReference.cache
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.AssemblyInfoInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.AssemblyInfo.cs
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.csproj.CoreCompileInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCat.49587367.Up2Date
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.dll
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\refint\MusicCatalog.Domain.dll
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\MusicCatalog.Domain.pdb
+D:\33333\MusicCatalog\MusicCatalog.Domain\obj\Debug\net9.0\ref\MusicCatalog.Domain.dll

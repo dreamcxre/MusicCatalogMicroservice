@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MusicCatalog.Domain/1.0.0": {
+        "dependencies": {
+          "MusicCatalog.Domain.ValueObjects": "1.0.0"
+        },
+        "runtime": {
+          "MusicCatalog.Domain.dll": {}
+        }
+      },
+      "MusicCatalog.Domain.ValueObjects/1.0.0": {
+        "runtime": {
+          "MusicCatalog.Domain.ValueObjects.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicCatalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicCatalog.Domain.ValueObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
