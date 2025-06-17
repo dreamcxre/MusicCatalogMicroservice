@@ -1,0 +1,4 @@
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net8.0\MusicCatalog.Domain.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net8.0\MusicCatalog.Domain.ValueObjects.AssemblyInfoInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net8.0\MusicCatalog.Domain.ValueObjects.AssemblyInfo.cs
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net8.0\MusicCatalog.Domain.ValueObjects.csproj.CoreCompileInputs.cache

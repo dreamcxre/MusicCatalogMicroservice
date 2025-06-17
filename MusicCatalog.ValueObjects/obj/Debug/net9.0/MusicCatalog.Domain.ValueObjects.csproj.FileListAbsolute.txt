@@ -1,0 +1,11 @@
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\bin\Debug\net9.0\MusicCatalog.Domain.ValueObjects.deps.json
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\bin\Debug\net9.0\MusicCatalog.Domain.ValueObjects.dll
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\bin\Debug\net9.0\MusicCatalog.Domain.ValueObjects.pdb
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.AssemblyInfoInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.AssemblyInfo.cs
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.csproj.CoreCompileInputs.cache
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.dll
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\refint\MusicCatalog.Domain.ValueObjects.dll
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\MusicCatalog.Domain.ValueObjects.pdb
+D:\33333\MusicCatalog\MusicCatalog.ValueObjects\obj\Debug\net9.0\ref\MusicCatalog.Domain.ValueObjects.dll
