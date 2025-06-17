@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\bin\Debug\net8.0\MusicCatalog.deps.json
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\bin\Debug\net8.0\MusicCatalog.dll
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\bin\Debug\net8.0\MusicCatalog.pdb
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.dll
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\refint\MusicCatalog.dll
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\MusicCatalog.pdb
+C:\Users\Lenovo\source\repos\MusicCatalog\MusicCatalog\obj\Debug\net8.0\ref\MusicCatalog.dll
